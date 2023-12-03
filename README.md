@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I've been programming for less than a year. I started out by learning theputer programming language. I tried my hand at creating websites, games, and even tried to create my own application. Now I am studying machine learning and artificial intelligence. I am also trying my hand at data science.
+I've been programming for less than a year. I started out by learning Python. I tried my hand at creating websites, games, and even tried to create my own application. Now I am studying machine learning and artificial intelligence. I am also trying my hand at data science.
 
 * 🌍  I'm based in Blagoveshensk (Russia, Amurskaya obl)
 * ✉️  You can contact me at [denis.kryukov.8924@gmail.com](mailto:denis.kryukov.8924@gmail.com)
