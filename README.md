@@ -33,8 +33,6 @@ I've been programming for less than a year. I started out by learning Python. I 
 - **Description**: Telegram bot for creating and managing quizzes. Users can take quizzes on a variety of topics.
 - **Technology Stack**: Python, aiogram, asyncio, MySQL.
 
-Translated with DeepL.com (free version)
-
 ## Skills
 
 <p align="left">
